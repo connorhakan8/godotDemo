@@ -2,3 +2,7 @@ res://scenes/player.tscn
 res://assets/LICENSE & CREDITS.txt
 res://scenes/game.tscn
 res://scripts/player.gd
+res://platform.tscn
+res://scenes/platform.tscn
+res://scenes/coin.tscn
+res://scripts/coin.gd
